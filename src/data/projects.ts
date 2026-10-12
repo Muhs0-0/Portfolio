@@ -24,8 +24,7 @@ export const projects: Project[] = [
     accent: "green",
     logo: "/qaf-inventory-logo.webp",
     logoStyle: "dark",
-    // TODO: replace with the live QAF Inventory URL once it's ready.
-    url: "https://your-qaf-inventory-url.com",
+    url: "https://qaf-inventory-website.vercel.app/",
   },
   {
     name: "Ubora AI",
